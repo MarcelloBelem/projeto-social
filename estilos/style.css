@@ -32,3 +32,17 @@ section#iphone {
     height: 627px;
     background: url(../arquivos/pacote-d013/imagens/frame-iphone.png) no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 81px;
+    left: 22px;
+    width: 268px;
+    height: 471px;
+}
+
+section#social{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
